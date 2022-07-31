@@ -1,0 +1,4 @@
+# My personal gitignore
+
+# Ignore temporary word documents
+~*.docx
